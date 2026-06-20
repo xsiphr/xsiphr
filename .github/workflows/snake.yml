@@ -13,7 +13,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#F5E6D3&color_dots=#161b22,#4c3c2f,#826550,#b69374,#f5e6d3
       - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v3
         with:
@@ -21,4 +21,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
