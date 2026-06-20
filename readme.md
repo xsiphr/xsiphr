@@ -30,8 +30,8 @@ I work with:<br/>
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xsiphr&show_icons=true&theme=catppuccin_mocha&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsiphr&layout=compact&theme=catppuccin_mocha&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xsiphr&show_icons=true&title_color=F5E6D3&icon_color=ffffff&text_color=B69374&bg_color=00000000&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsiphr&layout=compact&title_color=F5E6D3&text_color=B69374&bg_color=00000000&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <br>
