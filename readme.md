@@ -37,7 +37,7 @@ I work with:<br/>
 <br>
 
 <div align="center">
-  <h3>Profile Views: <img height="40" src="https://count.getloli.com/@xsiphr?name=xsiphr&theme=sketch-1&padding=4&offset=1&scale=1&pixelated=1&darkmode=1" align="center" alt="Views Counter" /></h3>
+  <h3>Profile Views: <img height="40" src="https://count.getloli.com/@xsiphr?name=xsiphr&theme=sketch-1&padding=4&offset=1&scale=1&pixelated=1&darkmode=1" align="absmiddle" alt="Views Counter" /></h3>
 </div>
 
 <br>
