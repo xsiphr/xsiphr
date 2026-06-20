@@ -4,7 +4,6 @@ Hi, I'm **[Abdulrahman Agiba | xsiphr](https://xsiphr.vercel.app/)**
 
 I'm a 2nd-year CS student @ [Tanta University](https://ci.tanta.edu.eg/en/) and an Open Source developer building custom tools, Obsidian plugins, and themes. Currently, I'm diving into Offensive Security and Web Pentesting to start Bug Hunting, with my sights set on Cloud Security.
 
-
 ## About Me
 
 * **Background:** A Computer Science student @ [Tanta University](https://ci.tanta.edu.eg/en/) with an interest in software development and understanding how systems work.
@@ -12,6 +11,8 @@ I'm a 2nd-year CS student @ [Tanta University](https://ci.tanta.edu.eg/en/) and 
 * **Open Source:** I enjoy building tools, ranging from simple automation scripts and Linux themes to custom Obsidian plugins.
 * **Knowledge Base:** Maintaining a personal wiki in Obsidian to document technical problems and their solutions, with plans to publish it on [my Website](https://xsiphr.vercel.app/) later.
 * **System:** A Linux enthusiast configuring minimal Arch Linux setups, managing dotfiles, and exploring system internals.
+* **Community:** Member of the [Hidden Lock Team](https://www.hiddenlockteam.com/), dedicated to supporting and expanding the Arab Linux community. I actively help users [troubleshoot and resolve](https://www.hiddenlockteam.com/p/issues-linux-hidden-lock-team-root-bg.html) their Linux-related issues.
+
 
 ## Featured Project
 
