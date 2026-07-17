@@ -23,7 +23,7 @@
             width="114"
             height="114"
             stroke="#e1e4e8"
-            fill="#FFF"
+            fill="#F0F0F0"
             stroke-opacity="1"
             fill-opacity="1"
           />
@@ -33,9 +33,9 @@
   <defs>
     <linearGradient id="B" gradientTransform="rotate(45)">
     
-    <stop offset="0%" stop-color="#A18D66"/>
-    <stop offset="70%" stop-color="#A18D66"/>
-    <stop offset="100%" stop-color="#816D96"/>
+    <stop offset="0%" stop-color="#858585"/>
+    <stop offset="70%" stop-color="#858585"/>
+    <stop offset="100%" stop-color="#858585"/>
     
     </linearGradient>
   </defs>
@@ -46,11 +46,11 @@
     <path fill-rule="evenodd" d="M12.5 3a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0zm-6-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0z"/>
     <path d="M3 1h10c-.495 3.467-.5 10-5 10S3.495 4.467 3 1zm0 15a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1H3zm2-1a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1H5z"/>
     <circle cx="8" cy="6" r="4" fill="#FFF" />
-    <text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#412D06">B</text>
+    <text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#4D4D4D">B</text>
   
   </svg>
   
-          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#000">Stars</text>
+          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#111">Stars</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#666">Middle Star</text>
           <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#666">13pt</text>
           
@@ -74,7 +74,7 @@
       width="80"
       height="3.2"
       opacity="0.3"
-      fill="#0366d6"
+      fill="#8E8680"
     />
     <rect
       id="Stars-rank-progress"
@@ -82,7 +82,7 @@
       y="101"
       rx="1"
       height="3.2"
-      fill="#0366d6"
+      fill="#8E8680"
     />
   
         </svg>
@@ -103,7 +103,7 @@
             width="114"
             height="114"
             stroke="#e1e4e8"
-            fill="#FFF"
+            fill="#F0F0F0"
             stroke-opacity="1"
             fill-opacity="1"
           />
@@ -113,9 +113,9 @@
   <defs>
     <linearGradient id="B" gradientTransform="rotate(45)">
     
-    <stop offset="0%" stop-color="#A18D66"/>
-    <stop offset="70%" stop-color="#A18D66"/>
-    <stop offset="100%" stop-color="#816D96"/>
+    <stop offset="0%" stop-color="#858585"/>
+    <stop offset="70%" stop-color="#858585"/>
+    <stop offset="100%" stop-color="#858585"/>
     
     </linearGradient>
   </defs>
@@ -126,11 +126,11 @@
     <path fill-rule="evenodd" d="M12.5 3a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0zm-6-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0z"/>
     <path d="M3 1h10c-.495 3.467-.5 10-5 10S3.495 4.467 3 1zm0 15a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1H3zm2-1a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1H5z"/>
     <circle cx="8" cy="6" r="4" fill="#FFF" />
-    <text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#412D06">B</text>
+    <text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#4D4D4D">B</text>
   
   </svg>
   
-          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#000">Commits</text>
+          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#111">Commits</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#666">Middle Committer</text>
           <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#666">94pt</text>
           
@@ -154,7 +154,7 @@
       width="80"
       height="3.2"
       opacity="0.3"
-      fill="#0366d6"
+      fill="#8E8680"
     />
     <rect
       id="Commits-rank-progress"
@@ -162,7 +162,7 @@
       y="101"
       rx="1"
       height="3.2"
-      fill="#0366d6"
+      fill="#8E8680"
     />
   
         </svg>
@@ -183,7 +183,7 @@
             width="114"
             height="114"
             stroke="#e1e4e8"
-            fill="#FFF"
+            fill="#F0F0F0"
             stroke-opacity="1"
             fill-opacity="1"
           />
@@ -193,9 +193,9 @@
   <defs>
     <linearGradient id="C" gradientTransform="rotate(45)">
     
-      <stop offset="0%" stop-color="#777"/>
-      <stop offset="50%" stop-color="#777"/>
-      <stop offset="100%" stop-color="#333"/>
+      <stop offset="0%" stop-color="#535353"/>
+      <stop offset="50%" stop-color="#535353"/>
+      <stop offset="100%" stop-color="#535353"/>
   
     </linearGradient>
   </defs>
@@ -206,11 +206,11 @@
     <path fill-rule="evenodd" d="M12.5 3a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0zm-6-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0z"/>
     <path d="M3 1h10c-.495 3.467-.5 10-5 10S3.495 4.467 3 1zm0 15a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1H3zm2-1a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1H5z"/>
     <circle cx="8" cy="6" r="4" fill="#FFF" />
-    <text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#333">C</text>
+    <text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#4D4D4D">C</text>
   
   </svg>
   
-          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#000">Followers</text>
+          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#111">Followers</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#666">First Friend</text>
           <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#666">7pt</text>
           
@@ -234,7 +234,7 @@
       width="80"
       height="3.2"
       opacity="0.3"
-      fill="#0366d6"
+      fill="#8E8680"
     />
     <rect
       id="Followers-rank-progress"
@@ -242,7 +242,7 @@
       y="101"
       rx="1"
       height="3.2"
-      fill="#0366d6"
+      fill="#8E8680"
     />
   
         </svg>
@@ -263,7 +263,7 @@
             width="114"
             height="114"
             stroke="#e1e4e8"
-            fill="#FFF"
+            fill="#F0F0F0"
             stroke-opacity="1"
             fill-opacity="1"
           />
@@ -273,9 +273,9 @@
   <defs>
     <linearGradient id="C" gradientTransform="rotate(45)">
     
-      <stop offset="0%" stop-color="#777"/>
-      <stop offset="50%" stop-color="#777"/>
-      <stop offset="100%" stop-color="#333"/>
+      <stop offset="0%" stop-color="#535353"/>
+      <stop offset="50%" stop-color="#535353"/>
+      <stop offset="100%" stop-color="#535353"/>
   
     </linearGradient>
   </defs>
@@ -286,11 +286,11 @@
     <path fill-rule="evenodd" d="M12.5 3a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0zm-6-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0z"/>
     <path d="M3 1h10c-.495 3.467-.5 10-5 10S3.495 4.467 3 1zm0 15a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1H3zm2-1a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1H5z"/>
     <circle cx="8" cy="6" r="4" fill="#FFF" />
-    <text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#333">C</text>
+    <text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#4D4D4D">C</text>
   
   </svg>
   
-          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#000">Issues</text>
+          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#111">Issues</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#666">First Issue</text>
           <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#666">1pt</text>
           
@@ -314,7 +314,7 @@
       width="80"
       height="3.2"
       opacity="0.3"
-      fill="#0366d6"
+      fill="#8E8680"
     />
     <rect
       id="Issues-rank-progress"
@@ -322,7 +322,7 @@
       y="101"
       rx="1"
       height="3.2"
-      fill="#0366d6"
+      fill="#8E8680"
     />
   
         </svg>
@@ -343,7 +343,7 @@
             width="114"
             height="114"
             stroke="#e1e4e8"
-            fill="#FFF"
+            fill="#F0F0F0"
             stroke-opacity="1"
             fill-opacity="1"
           />
@@ -353,9 +353,9 @@
   <defs>
     <linearGradient id="C" gradientTransform="rotate(45)">
     
-      <stop offset="0%" stop-color="#777"/>
-      <stop offset="50%" stop-color="#777"/>
-      <stop offset="100%" stop-color="#333"/>
+      <stop offset="0%" stop-color="#535353"/>
+      <stop offset="50%" stop-color="#535353"/>
+      <stop offset="100%" stop-color="#535353"/>
   
     </linearGradient>
   </defs>
@@ -366,11 +366,11 @@
     <path fill-rule="evenodd" d="M12.5 3a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0zm-6-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0z"/>
     <path d="M3 1h10c-.495 3.467-.5 10-5 10S3.495 4.467 3 1zm0 15a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1H3zm2-1a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1H5z"/>
     <circle cx="8" cy="6" r="4" fill="#FFF" />
-    <text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#333">C</text>
+    <text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#4D4D4D">C</text>
   
   </svg>
   
-          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#000">Repositories</text>
+          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#111">Repositories</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#666">First Repository</text>
           <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#666">4pt</text>
           
@@ -394,7 +394,7 @@
       width="80"
       height="3.2"
       opacity="0.3"
-      fill="#0366d6"
+      fill="#8E8680"
     />
     <rect
       id="Repositories-rank-progress"
@@ -402,7 +402,7 @@
       y="101"
       rx="1"
       height="3.2"
-      fill="#0366d6"
+      fill="#8E8680"
     />
   
         </svg>
@@ -423,7 +423,7 @@
             width="114"
             height="114"
             stroke="#e1e4e8"
-            fill="#FFF"
+            fill="#F0F0F0"
             stroke-opacity="1"
             fill-opacity="1"
           />
@@ -433,9 +433,9 @@
   <defs>
     <linearGradient id="C" gradientTransform="rotate(45)">
     
-      <stop offset="0%" stop-color="#777"/>
-      <stop offset="50%" stop-color="#777"/>
-      <stop offset="100%" stop-color="#333"/>
+      <stop offset="0%" stop-color="#535353"/>
+      <stop offset="50%" stop-color="#535353"/>
+      <stop offset="100%" stop-color="#535353"/>
   
     </linearGradient>
   </defs>
@@ -446,11 +446,11 @@
     <path fill-rule="evenodd" d="M12.5 3a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0zm-6-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0z"/>
     <path d="M3 1h10c-.495 3.467-.5 10-5 10S3.495 4.467 3 1zm0 15a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1H3zm2-1a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1H5z"/>
     <circle cx="8" cy="6" r="4" fill="#FFF" />
-    <text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#333">C</text>
+    <text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#4D4D4D">C</text>
   
   </svg>
   
-          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#000">Experience</text>
+          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#111">Experience</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#666">Newbie</text>
           <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#666">4pt</text>
           
@@ -474,7 +474,7 @@
       width="80"
       height="3.2"
       opacity="0.3"
-      fill="#0366d6"
+      fill="#8E8680"
     />
     <rect
       id="Experience-rank-progress"
@@ -482,7 +482,7 @@
       y="101"
       rx="1"
       height="3.2"
-      fill="#0366d6"
+      fill="#8E8680"
     />
   
         </svg>
@@ -503,7 +503,7 @@
             width="114"
             height="114"
             stroke="#e1e4e8"
-            fill="#FFF"
+            fill="#F0F0F0"
             stroke-opacity="1"
             fill-opacity="1"
           />
@@ -513,9 +513,9 @@
   <defs>
     <linearGradient id="?" gradientTransform="rotate(45)">
     
-      <stop offset="0%" stop-color="#777"/>
-      <stop offset="50%" stop-color="#777"/>
-      <stop offset="100%" stop-color="#333"/>
+      <stop offset="0%" stop-color="#535353"/>
+      <stop offset="50%" stop-color="#535353"/>
+      <stop offset="100%" stop-color="#535353"/>
   
     </linearGradient>
   </defs>
@@ -526,11 +526,11 @@
     <path fill-rule="evenodd" d="M12.5 3a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0zm-6-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0z"/>
     <path d="M3 1h10c-.495 3.467-.5 10-5 10S3.495 4.467 3 1zm0 15a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1H3zm2-1a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1H5z"/>
     <circle cx="8" cy="6" r="4" fill="#FFF" />
-    <text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#333">?</text>
+    <text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#4D4D4D">?</text>
   
   </svg>
   
-          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#000">PullRequest</text>
+          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#111">PullRequest</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#666">Unknown</text>
           <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#666">0pt</text>
           
@@ -554,7 +554,7 @@
       width="80"
       height="3.2"
       opacity="0.3"
-      fill="#0366d6"
+      fill="#8E8680"
     />
     <rect
       id="PullRequest-rank-progress"
@@ -562,7 +562,7 @@
       y="101"
       rx="1"
       height="3.2"
-      fill="#0366d6"
+      fill="#8E8680"
     />
   
         </svg>
@@ -583,7 +583,7 @@
             width="114"
             height="114"
             stroke="#e1e4e8"
-            fill="#FFF"
+            fill="#F0F0F0"
             stroke-opacity="1"
             fill-opacity="1"
           />
@@ -593,9 +593,9 @@
   <defs>
     <linearGradient id="?" gradientTransform="rotate(45)">
     
-      <stop offset="0%" stop-color="#777"/>
-      <stop offset="50%" stop-color="#777"/>
-      <stop offset="100%" stop-color="#333"/>
+      <stop offset="0%" stop-color="#535353"/>
+      <stop offset="50%" stop-color="#535353"/>
+      <stop offset="100%" stop-color="#535353"/>
   
     </linearGradient>
   </defs>
@@ -606,11 +606,11 @@
     <path fill-rule="evenodd" d="M12.5 3a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0zm-6-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-3 2a3 3 0 1 1 6 0 3 3 0 0 1-6 0z"/>
     <path d="M3 1h10c-.495 3.467-.5 10-5 10S3.495 4.467 3 1zm0 15a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1H3zm2-1a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1H5z"/>
     <circle cx="8" cy="6" r="4" fill="#FFF" />
-    <text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#333">?</text>
+    <text x="6" y="8" font-family="Courier, Monospace" font-size="7" fill="#4D4D4D">?</text>
   
   </svg>
   
-          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#000">Reviews</text>
+          <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#111">Reviews</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#666">Unknown</text>
           <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#666">0pt</text>
           
@@ -634,7 +634,7 @@
       width="80"
       height="3.2"
       opacity="0.3"
-      fill="#0366d6"
+      fill="#8E8680"
     />
     <rect
       id="Reviews-rank-progress"
@@ -642,7 +642,7 @@
       y="101"
       rx="1"
       height="3.2"
-      fill="#0366d6"
+      fill="#8E8680"
     />
   
         </svg>
