@@ -35,7 +35,7 @@ I work with:<br/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xsiphr&no-frame=true&no-bg=true&margin-w=10&row=1&title=B69374&icon=F5E6D3&background=00000000&level=F5E6D3&rank=B69374&border=B69374" alt="Trophy Graph" />
+  <img src="https://github-trophies.vercel.app/?username=xsiphr&no-frame=true&margin-w=10&row=1&title=B69374&icon=F5E6D3&background=00000000&level=F5E6D3&rank=B69374&border=B69374" alt="Trophy Graph" />
 </p>
 
 <br>
