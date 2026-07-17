@@ -34,6 +34,9 @@ I work with:<br/>
   <img src="https://streak-stats.demolab.com?user=xsiphr&theme=dark&hide_border=true&background=00000000&stroke=B69374&ring=F5E6D3&fire=F5E6D3&currStreakLabel=F5E6D3&sideNums=B69374&currStreakNum=F5E6D3&sideLabels=B69374&dates=B69374" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="./trophy.svg" alt="Trophy Graph" />
+</p>
 
 <br>
 
