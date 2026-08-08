@@ -21,7 +21,7 @@ I'm a 2nd-year CS student @ [Tanta University](https://ci.tanta.edu.eg/en/) and 
 
 Officially published in the [Obsidian Community Store](https://community.obsidian.md/plugins/stonegate). StoneGate protects your Obsidian vault and specific folders with password authentication, automatic idle timeouts, brute-force lockouts, and a stealth mode for hiding protected folders. 
 
-[<img src="https://img.shields.io/github/v/release/xsiphr/StoneGate-plugin?label=Latest%20Release&color=483699&style=flat-square">](https://github.com/xsiphr/StoneGate-plugin/releases) [<img src="https://img.shields.io/github/stars/xsiphr/StoneGate-plugin?style=flat-square&color=EBCB8B">](https://github.com/xsiphr/StoneGate-plugin/stargazers)
+[<img src="https://img.shields.io/github/v/release/xsiphr/StoneGate-plugin?label=Latest%20Release&color=483699&style=flat-square">](https://github.com/xsiphr/StoneGate-plugin/releases) [<img src="https://img.shields.io/github/stars/xsiphr/StoneGate-plugin?style=flat-square&color=EBCB8B">](https://github.com/xsiphr/StoneGate-plugin/stargazers) [<img src="https://img.shields.io/badge/dynamic/json?logo=obsidian&color=483699&label=downloads&query=$[%22stonegate%22].downloads&url=https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-plugin-stats.json&style=flat-square">](https://obsidian.md/plugins?id=stonegate)
 
 ## Stack
 
