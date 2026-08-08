@@ -1,4 +1,4 @@
-![Abdulrahman Agiba ASCII Banner](assets/whoami.svg)
+![Abdulrahman Agiba ASCII Banner](assets/whoami_16181D.svg)
 
 Hi, I'm **[Abdulrahman Agiba | xsiphr](https://xsiphr.vercel.app/)**
 
