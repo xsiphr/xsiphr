@@ -14,7 +14,7 @@ jobs:
           username: xsiphr
           file: trophy.svg
           theme: oldie
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
