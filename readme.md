@@ -25,7 +25,6 @@ Officially published in the [Obsidian Community Store](https://community.obsidia
 
 ## Stack
 
-I work with:<br/>
 [![Python, C++, JavaScript, TypeScript, CSS, Bash, Markdown, Linux, Arch Linux, Kali Linux, Git, GitHub, Neovim, VS Code, Obsidian, Vercel](https://skillicons.dev/icons?i=python,cpp,js,ts,css,bash,md,linux,arch,kali,git,github,neovim,vscode,obsidian,vercel&perline=8)](https://skillicons.dev)
 
 ## Stats
