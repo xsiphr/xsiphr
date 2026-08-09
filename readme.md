@@ -1,4 +1,4 @@
-![Banner](assets/banner2.svg)
+![Banner](assets/banner3.svg)
 
 Hi, I'm **[Abdulrahman Agiba | xsiphr](https://xsiphr.vercel.app/)**
 
