@@ -1,6 +1,6 @@
 ![Banner](assets/banner2.svg)
 
-Hi, I'm **[Abdulrahman Agiba | xsiphr](https://xsiphr.vercel.app/)**
+Hi, I'm **[Abdulrahman Agiba | xsiphr](https://xsiporto.vercel.app/)**
 
 I'm a 2nd-year CS student @ [Tanta University](https://ci.tanta.edu.eg/en/) and an Open Source developer building custom tools, Obsidian plugins, and themes. Currently, I'm diving into Offensive Security and Web Pentesting to start Bug Hunting, with my sights set on Cloud Security.
 
@@ -9,7 +9,7 @@ I'm a 2nd-year CS student @ [Tanta University](https://ci.tanta.edu.eg/en/) and 
 * **Background:** A Computer Science student @ [Tanta University](https://ci.tanta.edu.eg/en/) with an interest in software development and understanding how systems work.
 * **Security Focus:** Currently active in bug hunting and practicing Web and Android penetration testing, with a long-term goal of working in Cloud Security.
 * **Open Source:** I enjoy building tools, ranging from simple automation scripts and Linux themes to custom Obsidian plugins.
-* **Knowledge Base:** Maintaining a personal wiki in Obsidian to document technical problems and their solutions, with plans to publish it on [my Website](https://xsiphr.vercel.app/) later.
+* **Knowledge Base:** Maintaining a personal wiki in Obsidian to document technical problems and their solutions, with plans to publish it on [my Website](https://xsiporto.vercel.app/) later.
 * **System:** A Linux enthusiast configuring minimal Arch Linux setups, managing dotfiles, and exploring system internals.
 * **Community:** Member of the [Hidden Lock Team](https://www.hiddenlockteam.com/), dedicated to supporting and expanding the Arab Linux community. I actively help users [troubleshoot and resolve](https://www.hiddenlockteam.com/p/issues-linux-hidden-lock-team-root-bg.html) their Linux-related issues.
 
@@ -56,7 +56,7 @@ Officially published in the [Obsidian Community Store](https://community.obsidia
 
 ## Get in Touch
 
-[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/vercel.svg?color=white&height=30'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/vercel.svg?color=black&height=30'><img alt='portfolio logo' src='https://api.iconify.design/simple-icons/vercel.svg?color=black&height=30' height='30'></picture>](https://xsiphr.vercel.app/)&nbsp; &nbsp;
+[<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/vercel.svg?color=white&height=30'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/vercel.svg?color=black&height=30'><img alt='portfolio logo' src='https://api.iconify.design/simple-icons/vercel.svg?color=black&height=30' height='30'></picture>](https://xsiporto.vercel.app/)&nbsp; &nbsp;
 [<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/protonmail.svg?color=white&height=30'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/protonmail.svg?color=black&height=30'><img alt='protonmail logo' src='https://api.iconify.design/simple-icons/protonmail.svg?color=black&height=30' height='30'></picture>](mailto:xsiphr@proton.me)&nbsp; &nbsp;
 [<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/linkedin.svg?color=white&height=30'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/linkedin.svg?color=black&height=30'><img alt='linkedin logo' src='https://api.iconify.design/simple-icons/linkedin.svg?color=black&height=30' height='30'></picture>](https://www.linkedin.com/in/abdulrahman-agiba/)&nbsp; &nbsp;
 [<picture><source media='(prefers-color-scheme: dark)' srcset='https://api.iconify.design/simple-icons/x.svg?color=white&height=30'><source media='(prefers-color-scheme: light)' srcset='https://api.iconify.design/simple-icons/x.svg?color=black&height=30'><img alt='x logo' src='https://api.iconify.design/simple-icons/x.svg?color=black&height=30' height='30'></picture>](https://x.com/0xsiphr)&nbsp; &nbsp;
