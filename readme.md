@@ -23,6 +23,13 @@ Officially published in the [Obsidian Community Store](https://community.obsidia
 
 [<img src="https://img.shields.io/github/v/release/xsiphr/StoneGate-plugin?label=Latest%20Release&color=483699&style=flat-square">](https://github.com/xsiphr/StoneGate-plugin/releases) [<img src="https://img.shields.io/github/stars/xsiphr/StoneGate-plugin?style=flat-square&color=EBCB8B">](https://github.com/xsiphr/StoneGate-plugin/stargazers) [<img src="https://img.shields.io/badge/dynamic/json?logo=obsidian&color=483699&label=downloads&query=$[%22stonegate%22].downloads&url=https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-plugin-stats.json&style=flat-square">](https://obsidian.md/plugins?id=stonegate)
 
+### [Oxiv](https://github.com/xsiphr/Oxiv)
+*A minimal, watermark-free social media extractor.*
+
+Open-source, stateless media extractor with zero-retention architecture. Currently supports TikTok and Pinterest with watermark-free downloads, direct MP4/MP3 extraction, and client-side ZIP bundling.
+
+[![Live on Vercel](https://img.shields.io/badge/Live-oxivapp.vercel.app-black?style=flat-square&logo=vercel)](https://oxivapp.vercel.app) [![License](https://img.shields.io/github/license/xsiphr/Oxiv?style=flat-square&color=483699)](https://github.com/xsiphr/Oxiv/blob/main/LICENSE) [![Stars](https://img.shields.io/github/stars/xsiphr/Oxiv?style=flat-square&color=EBCB8B)](https://github.com/xsiphr/Oxiv/stargazers) [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)](https://nextjs.org)
+
 ## Stack
 
 [![Python, C++, JavaScript, TypeScript, CSS, Bash, Markdown, Linux, Arch Linux, Kali Linux, Git, GitHub, Neovim, VS Code, Obsidian, Vercel](https://skillicons.dev/icons?i=python,cpp,js,ts,css,bash,md,linux,arch,kali,git,github,neovim,vscode,obsidian,vercel&perline=8)](https://skillicons.dev)
