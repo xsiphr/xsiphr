@@ -26,9 +26,9 @@ Officially published in the [Obsidian Community Store](https://community.obsidia
 ### [Oxiv](https://github.com/xsiphr/Oxiv)
 *A minimal, watermark-free social media extractor.*
 
-Open-source, stateless media extractor with zero-retention architecture. Currently supports TikTok and Pinterest with watermark-free downloads, direct MP4/MP3 extraction, and client-side ZIP bundling.
+Open-source, stateless media extractor with zero-retention architecture. Live at [oxivapp.vercel.app](https://oxivapp.vercel.app). Currently supports TikTok and Pinterest with watermark-free downloads, direct MP4/MP3 extraction, and client-side ZIP bundling.
 
-[![Live on Vercel](https://img.shields.io/badge/Live-oxivapp.vercel.app-black?style=flat-square&logo=vercel)](https://oxivapp.vercel.app) [![License](https://img.shields.io/github/license/xsiphr/Oxiv?style=flat-square&color=483699)](https://github.com/xsiphr/Oxiv/blob/main/LICENSE) [![Stars](https://img.shields.io/github/stars/xsiphr/Oxiv?style=flat-square&color=EBCB8B)](https://github.com/xsiphr/Oxiv/stargazers) [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)](https://nextjs.org)
+[![Live on Vercel](https://img.shields.io/badge/Live-oxivapp.vercel.app-333333?style=flat-square&logo=vercel&logoColor=white)](https://oxivapp.vercel.app) [![License](https://img.shields.io/github/license/xsiphr/Oxiv?style=flat-square&color=483699)](https://github.com/xsiphr/Oxiv/blob/main/LICENSE) [![Stars](https://img.shields.io/github/stars/xsiphr/Oxiv?style=flat-square&color=EBCB8B)](https://github.com/xsiphr/Oxiv/stargazers) [![Next.js](https://img.shields.io/badge/Next.js-15-333333?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org)
 
 ## Stack
 
