@@ -13,7 +13,6 @@ I'm a 2nd-year CS student @ [Tanta University](https://ci.tanta.edu.eg/en/) and 
 * **System:** A Linux enthusiast configuring minimal Arch Linux setups, managing dotfiles, and exploring system internals.
 * **Community:** Member of the [Hidden Lock Team](https://www.hiddenlockteam.com/), dedicated to supporting and expanding the Arab Linux community. I actively help users [troubleshoot and resolve](https://www.hiddenlockteam.com/p/issues-linux-hidden-lock-team-root-bg.html) their Linux-related issues.
 
-
 ## Featured Project
 
 ### [StoneGate for Obsidian](https://github.com/xsiphr/StoneGate-plugin)
